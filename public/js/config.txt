@@ -1,0 +1,66 @@
+const __DATA__ = {
+    'config' : {
+        'title' : 'TRANG CHỦ',
+        'favicon' : 'home.png',
+        'notice': 'MÌNH LÀ NGUYỄN VĂN TÙNG'
+    },
+    'cover-image' : 'bia.gif',
+    'avatar-image' : 'avt.jpg',
+    'name' : 'Nguyễn Văn Tùng', 
+    'is_tick' : true,
+    'skills' : [
+        'Developer',
+        'Designer',
+    ],
+    'bio-storys' : [
+        {
+            'image' : 'admin.png',
+            'content' : 'LIÃŠN Há»† ADMIN',
+            'author' : 'Nguyễn Văn Tùng',
+        },
+    ],
+    'links' : [
+        {
+            'image' : 'wallet.png',
+            'title' : 'ThÃ´ng Tin Thanh ToÃ¡n', 
+            'show-value' : 'Nguyễn Văn Tùng',
+            'value' : 'http://myinfomation.ml/payment',
+            'type' : 0,
+        },
+        {
+            'image' : 'facebook.jpg',
+            'title' : 'Facebook', 
+            'show-value' : '@VanViet.SupportFB' ,
+            'value' : 'https://www.facebook.com/VanViet.SupportFB/',
+            'type' : 0,
+        },
+        {
+            'image' : 'mess.jpg',
+            'title' : 'Messenger', 
+            'show-value' : '@VanViet.SupportFB' ,
+            'value' : 'https://m.me/VanViet.SupportFB',
+            'type' : 0,
+        },
+        {
+            'image' : 'zalo.jpg',
+            'title' : 'Zalo', 
+            'show-value' : 'Nguyá»…n VÄƒn Viá»‡t',
+            'value' : 'https://zalo.me/vanvietsupportfb',
+            'type' : 0,
+        },
+        {
+            'image' : 'phone.jpg',
+            'title' : 'Hotline', 
+            'show-value' : 'UNKNOWN ERROR',
+            'value' : 'tel:UNKNOWN ERROR',
+            'type' : 0,
+        },
+        {
+            'image' : 'gmail.jpg',
+            'title' : 'Gmail', 
+            'show-value' : 'vanviet.dvfb@gmail.com',
+            'value' : 'mailto:vanviet.dvfb@gmail.com',
+            'type' : 0,
+        },
+    ]
+};
